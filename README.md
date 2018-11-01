@@ -9,4 +9,4 @@ Se han utilizado las siguientes librerías externas que habrá que instalar medi
 PyQt5 - Conjunto de bindings para utilizar el framework de interfaz gráfica Qt con Python.
 Unidecode - Herramienta utilizada para hacer comparaciones de strings ignorando caracteres Unicode.
 
-Los iconos de los estados del cielo han sido creados por Umutavci https://www.deviantart.com/umutavci/art/weather-icon-set-165476034\
+Los iconos de los estados del cielo han sido creados por Umutavci https://www.deviantart.com/umutavci/art/weather-icon-set-165476034

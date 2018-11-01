@@ -1,6 +1,7 @@
 # MeteoCloud
 Información meteorológica diaria por población con la API de la Agencia Estatal de Meteorología.
 
+El programa se ha de ejecutar desde el archivo meteo_main.py
 
 Al utilizar la API de AEMET, se tendrá que obtener una clave de API del siguiente enlace e introducirla en el archivo api_key.txt
 https://opendata.aemet.es/centrodedescargas/inicio
